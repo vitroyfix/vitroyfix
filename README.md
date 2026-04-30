@@ -31,8 +31,6 @@ stack:
   - IoT & Embedded Systems (ESP32)
 
 currently:
-  studying:  BSc Project Planning & Management
-             University of Nairobi
   building:  Secure web apps + IoT platforms
   learning:  Cloud architecture & advanced CTFs
 
@@ -211,8 +209,7 @@ Real-time environmental monitoring system running on ESP32 microcontrollers. Cus
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/peterwangimwa%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:peterwangimwa@gmail.com)
-&nbsp;&nbsp;
+
 [![LinkedIn](https://img.shields.io/badge/Peter_Wangimwa-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/peterwangimwa)
 &nbsp;&nbsp;
 [![Location](https://img.shields.io/badge/Nairobi,_Kenya-0d1117?style=for-the-badge&logo=googlemaps&logoColor=4285F4&labelColor=0d1117)](https://maps.google.com/?q=Nairobi,Kenya)
