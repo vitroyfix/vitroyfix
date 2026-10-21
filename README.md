@@ -1,4 +1,4 @@
-<img src="./assets/profile.svg" width="100%" alt="Peter Wangimwa — full-stack engineer and security analyst. Nairobi, Kenya." />
+<img src="./assets/profile.svg" width="100%" alt="Peter Wangimwa — Full-Stack Developer &amp; Cybersecurity Analyst. I build secure web applications, then I try to break them." />
 
 <p align="center">
   <a href="https://linkedin.com/in/peterwangimwa"><code>linkedin ↗</code></a>
