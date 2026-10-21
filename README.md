@@ -1,179 +1,124 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=250&section=header&text=Peter%20Wangimwa&fontSize=70&fontColor=fff&fontAlignY=55&desc=vitroyfix&descSize=20&descAlignY=77&descColor=58A6FF&stroke=58A6FF&strokeWidth=2" width="100%" />
-
-<br/>
+<a href="https://github.com/vitroyfix">
+  <img src="./assets/header.svg" width="100%" alt="Peter Wangimwa — Full-Stack Engineer, Cybersecurity Analyst, IoT" />
+</a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Full-Stack+Engineer+%7C+Cybersecurity+Analyst;Django+·+Next.js+·+TypeScript+·+GraphQL;Building+Media+Bridge+%26+Pasagate;Ethical+hacker+by+discipline%2C+builder+by+nature;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA+%E2%80%94+shipping+globally)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter_Wangimwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peterwangimwa)
+[![GitHub](https://img.shields.io/badge/GitHub-All_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitroyfix?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=vitroyfix&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/vitroyfix)
 
 </div>
 
 <br/>
 
----
-
-<br/>
+## `$ whoami`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-```yaml
-# about.yaml
+I'm **Peter**, a full-stack engineer and cybersecurity analyst from **Nairobi, Kenya** 🇰🇪.
 
-name:      Peter Wangimwa Mwangi
-alias:     vitroyfix
-base:      Nairobi, Kenya
+I build systems **end-to-end**: Django and GraphQL APIs, Next.js frontends, browser extensions, M-Pesa payment flows, and firmware on ESP32 boards. Then I **attack them** to see what breaks.
 
-stack:
-  - Full-Stack Web Development
-  - Cybersecurity & Offensive Security
-  - Browser Extensions (Manifest V3)
-  - Payments & Fintech (M-Pesa Daraja)
-  - IoT & Embedded Systems (ESP32)
-
-currently:
-  building:  Media Bridge + Pasagate
-  learning:  Cloud architecture & advanced CTFs
-
-open_to:
-  - Freelance & contract work
-  - Open-source collaboration
-  - Internship opportunities
-```
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-**I build things end-to-end — then I try to break them.**
-
-My work lives at the intersection of secure software engineering, web systems, and hardware. Whether it's a Django API, a Next.js frontend, a Chrome extension, an M-Pesa payment flow, or firmware running on an ESP32 — I care about the full picture: does it work, does it scale, and can it withstand an attacker?
-
-I'm currently deepening my expertise in cloud-native security architecture and participating in CTF challenges to sharpen my offensive security skills.
-
-<br/>
+- 🔭 &nbsp;Building **[Media Bridge](https://github.com/vitroyfix/video-extension)** and **[Pasagate](https://github.com/vitroyfix/pasagate)**
+- 🌱 &nbsp;Learning cloud security architecture and advanced CTFs
+- 🤝 &nbsp;Open to freelance, contract, internships, and OSS collaboration
 
 > *Architecture first. Security always. Ship when it's right.*
 
 </td>
+<td width="45%" valign="top">
+
+```yaml
+name:  Peter Wangimwa Mwangi
+alias: vitroyfix
+base:  Nairobi, KE
+
+focus:
+  - full-stack web
+  - offensive security
+  - payments / fintech
+  - browser extensions
+  - IoT & embedded
+
+status: open_to_work
+```
+
+</td>
 </tr>
 </table>
 
 <br/>
 
----
-
-## &nbsp;⚡ &nbsp;Tech Stack
-
-<br/>
-
-<div align="center">
-
-**Core Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB&labelColor=0d1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=0d1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)&nbsp;
-![MicroPython](https://img.shields.io/badge/MicroPython-0d1117?style=flat-square&logo=python&logoColor=2B9DE8&labelColor=0d1117)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=ffffff&labelColor=0d1117)
-
-<br/>
-
-**Web & APIs**
-
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B&labelColor=0d1117)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff&labelColor=0d1117)&nbsp;
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1117)&nbsp;
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=expo&logoColor=ffffff&labelColor=0d1117)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=0d1117)&nbsp;
-![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=E10098&labelColor=0d1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=0d1117)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3FCF8E&labelColor=0d1117)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=FF4438&labelColor=0d1117)&nbsp;
-![Celery](https://img.shields.io/badge/Celery-0d1117?style=flat-square&logo=celery&logoColor=37814A&labelColor=0d1117)
-
-<br/>
-
-**Security**
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=FF6633&labelColor=0d1117)&nbsp;
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=linux&logoColor=00C8FF&labelColor=0d1117)&nbsp;
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7&labelColor=0d1117)&nbsp;
-![Shodan](https://img.shields.io/badge/Shodan-0d1117?style=flat-square&logo=shodan&logoColor=FF0000&labelColor=0d1117)&nbsp;
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94&labelColor=0d1117)
-
-<br/>
-
-**Infrastructure & Hardware**
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED&labelColor=0d1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5&labelColor=0d1117)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF&labelColor=0d1117)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff&labelColor=0d1117)&nbsp;
-![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=flat-square&logo=espressif&logoColor=E7352C&labelColor=0d1117)&nbsp;
-![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=flat-square&logo=mqtt&logoColor=A020F0&labelColor=0d1117)
-
-</div>
-
-<br/>
-
----
-
-## &nbsp;🚀 &nbsp;Selected Projects
-
-<br/>
+## `$ ls ./projects --featured`
 
 <table>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2">
 
-#### 🎬 &nbsp;[Media Bridge](https://github.com/vitroyfix/video-extension) &nbsp;—&nbsp; Video Downloader Extension
+### 🎬 [Media Bridge](https://github.com/vitroyfix/video-extension)
 
-A Manifest V3 Chromium extension that downloads video from almost any site. Three detection layers — a network sniffer, a DOM observer, and a MediaSource stream-capture hook — catch HLS, MPEG-DASH, direct files, and even `blob:` players with no visible source. Handles AES-128 HLS, live recording, and muxing — all processed locally with FFmpeg.wasm. No servers, no telemetry.
+**Manifest V3 extension that downloads video from almost any website.** It uses three detection layers: a network sniffer, a DOM observer, and a MediaSource stream-capture hook. Together they catch HLS, MPEG-DASH, direct files, live streams, and `blob:` players that expose no source at all. It decrypts AES-128 HLS and muxes everything **locally with FFmpeg.wasm**. No servers, no accounts, no telemetry.
 
-**Stack:** `TypeScript` `Manifest V3` `FFmpeg.wasm` `HLS` `MPEG-DASH`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💳 &nbsp;[Pasagate](https://github.com/vitroyfix/pasagate) &nbsp;—&nbsp; M-Pesa Payment Gateway
-
-Multi-merchant payment gateway on Safaricom's Daraja API. STK Push checkout, direct-to-till and custodial B2C settlement, an encrypted vault for merchant secrets, and per-merchant API keys with domain allow-listing.
-
-**Stack:** `Django` `DRF` `Celery` `Redis` `PostgreSQL` `JWT`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛒 &nbsp;Utamu Wetu &nbsp;—&nbsp; E-Commerce Platform
-
-Full-stack organic grocery store built from the ground up. JWT auth, product catalog, search, cart, and checkout over a GraphQL API — a Dockerized Django backend with Supabase Postgres and Cloudinary media, plus a Next.js frontend.
-
-**Stack:** `Django` `Next.js` `TypeScript` `GraphQL` `PostgreSQL` &nbsp;·&nbsp; [backend](https://github.com/vitroyfix/utamu_wetu-back) · [frontend](https://github.com/vitroyfix/Utamu_Wetu-Front)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Chrome](https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg.wasm-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![HLS · DASH](https://img.shields.io/badge/HLS_·_DASH-30363d?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎭 &nbsp;[Jua Stage](https://github.com/vitroyfix/jua-stage) &nbsp;—&nbsp; Web App
+### 💳 [Pasagate](https://github.com/vitroyfix/pasagate)
 
-React 19 + Vite single-page app with Supabase on the back end and interactive Leaflet maps, styled with Tailwind CSS 4.
+**Multi-merchant M-Pesa payment gateway** on Safaricom's Daraja API. It handles STK Push checkout with direct-to-till or custodial B2C settlement. Merchant secrets are kept in an encrypted vault, and each merchant gets API keys locked to an allowed domain.
 
-**Stack:** `React` `Vite` `Supabase` `Leaflet` `Tailwind` &nbsp;·&nbsp; [live demo](https://jua-stage.vercel.app)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![M-Pesa](https://img.shields.io/badge/M--Pesa-4CAF50?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-#### 📡 &nbsp;IoT Sensor Network &nbsp;—&nbsp; Embedded Telemetry
+### 🛒 Utamu Wetu
 
-Real-time environmental monitoring system running on ESP32 microcontrollers. Custom MicroPython firmware handles sensor polling, Wi-Fi broadcasting, and memory-optimised data serialisation over MQTT.
+**Organic grocery e-commerce platform.** It has JWT auth, a product catalog with search, a cart, and checkout. A Dockerized Django GraphQL backend on Supabase Postgres and Cloudinary serves a Next.js frontend.
 
-**Stack:** `ESP32` `MicroPython` `MQTT` `Wi-Fi` `Python`
+[**backend →**](https://github.com/vitroyfix/utamu_wetu-back) &nbsp; [**frontend →**](https://github.com/vitroyfix/Utamu_Wetu-Front)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 [Jua Stage](https://github.com/vitroyfix/jua-stage)
+
+**React 19 + Vite web app** with a Supabase backend, interactive Leaflet maps, and Tailwind CSS 4 styling.
+
+[**live demo →**](https://jua-stage.vercel.app)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 IoT Sensor Network
+
+**Real-time environmental telemetry** on ESP32 microcontrollers. Custom MicroPython firmware polls the sensors, broadcasts over Wi-Fi, and sends compact, memory-efficient payloads over MQTT.
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
 </td>
 </tr>
@@ -181,88 +126,90 @@ Real-time environmental monitoring system running on ESP32 microcontrollers. Cus
 
 <br/>
 
----
-
-## &nbsp;📊 &nbsp;GitHub Stats
-
-<br/>
+## `$ cat stack.txt`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitroyfix&show_icons=true&bg_color=0d1117&title_color=58A6FF&icon_color=1f6feb&text_color=8b949e&border_color=21262d&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=vitroyfix%27s%20GitHub%20Stats" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitroyfix&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&border_color=21262d&hide_border=false&langs_count=6&custom_title=Most%20Used%20Languages" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=vitroyfix&background=0d1117&ring=58A6FF&fire=1f6feb&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&border=21262d&sideNums=c9d1d9&currStreakNum=c9d1d9&stroke=21262d" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitroyfix&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=0d2045&border_color=21262d&radius=4&custom_title=Contribution%20Timeline" width="92%"/>
+<table>
+<tr>
+<td align="center" width="140"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=py,ts,js,bash&perline=8" alt="Python, TypeScript, JavaScript, Bash" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=django,graphql,postgres,supabase,redis&perline=8" alt="Django, GraphQL, PostgreSQL, Supabase, Redis" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite&perline=8" alt="Next.js, React, Tailwind CSS, Vite" /></td>
+</tr>
+<tr>
+<td align="center"><b>Infra</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,vercel,linux&perline=8" alt="Docker, Kubernetes, GitHub Actions, Vercel, Linux" /></td>
+</tr>
+<tr>
+<td align="center"><b>Security & HW</b></td>
+<td><img src="https://skillicons.dev/icons?i=kali,arduino,raspberrypi&perline=8" alt="Kali Linux, Arduino, Raspberry Pi" />&nbsp;
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" height="24" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" height="24" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square" height="24" alt="Nmap" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" height="24" alt="ESP32" /></td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
----
+## `$ ./methodology.sh`
 
-## &nbsp;🏆 &nbsp;Trophies
+```console
+┌──(vitroyfix㉿kali)-[~/engagements]
+└─$ ./methodology.sh --verbose
 
-<br/>
+[01] OSINT     ▸ map the digital footprint
+[02] RECON     ▸ enumerate ports, services, endpoints
+[03] ASSESS    ▸ probe for CVEs, logic flaws, misconfigs, injection
+[04] EXPLOIT   ▸ controlled, documented, proof-of-concept only
+[05] REPORT    ▸ severity, reproduction steps, remediation
+[06] HARDEN    ▸ verify the fix, retest, close the loop
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vitroyfix&theme=algolia&no-frame=true&margin-w=8&margin-h=8&column=7" width="92%"/>
-</div>
-
-<br/>
-
----
-
-## &nbsp;🔐 &nbsp;Cybersecurity Approach
-
-<br/>
-
-```bash
-┌──(vitroyfix㉿kali)-[~]
-└─$ cat methodology.md
-
-  Phase 1 — OSINT      Map the digital footprint. Know the target better than they know themselves.
-  Phase 2 — RECON      Enumerate ports, services, endpoints. Find the edges of the attack surface.
-  Phase 3 — ASSESS     Probe for CVEs, logic flaws, misconfigs, and injection vectors.
-  Phase 4 — EXPLOIT    Controlled, documented, responsible — proof of concept only.
-  Phase 5 — REPORT     Clear severity ratings, reproduction steps, and remediation guidance.
-  Phase 6 — HARDEN     Verify the fix. Retest. Document. Close the loop.
-
-└─$ echo "Security is not a feature — it's a discipline."
-  Security is not a feature — it's a discipline.
+[+] Security is not a feature — it's a discipline.
 ```
 
 <br/>
 
----
-
-## &nbsp;📬 &nbsp;Get in Touch
-
-<br/>
+## `$ git log --stats`
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vitroyfix&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vitroyfix&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&hide_border=true&title_color=1f6feb&icon_color=1f6feb" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vitroyfix&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitroyfix&layout=compact&langs_count=8&hide_border=true&title_color=1f6feb" />
+</picture>
 
-[![LinkedIn](https://img.shields.io/badge/Peter_Wangimwa-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/peterwangimwa)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/vitroyfix-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/vitroyfix?tab=repositories)
-&nbsp;&nbsp;
-[![Location](https://img.shields.io/badge/Nairobi,_Kenya-0d1117?style=for-the-badge&logo=googlemaps&logoColor=4285F4&labelColor=0d1117)](https://maps.google.com/?q=Nairobi,Kenya)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vitroyfix&theme=github-dark-blue&hide_border=true&background=0d1117" />
+  <img width="70%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=vitroyfix&theme=default&hide_border=true" />
+</picture>
 
-<br/><br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=vitroyfix&style=flat-square&color=58A6FF&label=profile+views)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitroyfix/vitroyfix/output/github-snake-dark.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/vitroyfix/vitroyfix/output/github-snake.svg" />
+</picture>
 
 </div>
 
 <br/>
 
----
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=false" width="100%"/>
+<sub>Built in Nairobi · Shipping globally · <a href="https://github.com/vitroyfix?tab=repositories">see all repositories →</a></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:a371f7&height=110&section=footer" width="100%" alt="" />
